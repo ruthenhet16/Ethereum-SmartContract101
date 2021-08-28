@@ -1,1 +1,1 @@
-# Ethereum_SmartContract101
+# Ethereum-SmartContract101
